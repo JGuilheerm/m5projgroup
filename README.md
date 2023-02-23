@@ -12,3 +12,18 @@
 <h3>Depedencias Ultilizadas</h3>
 
 ![image](https://github.com/JGuilheerm/m5projgroup/blob/main/img/dep.png)
+
+
+
+<div align="center">
+<h2>Feito pelos Desenvolvedores ⬇️</h2>
+<table>
+<tr>
+<ul>Alexsandra Mota - https://github.com/Alexsandra2223</ul>
+<ul>João Guilherme - https://github.com/JGuilheerm</ul>
+<ul>Maria Dutra - https://github.com/MariDutra</ul>
+<ul>Priscila Barbosa - https://github.com/Priscilabf</ul>
+<ul>Rafiki Dias - https://github.com/Rfknzg</ul>
+            </tr>
+        </table>
+    </div>
