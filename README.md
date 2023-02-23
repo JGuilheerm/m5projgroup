@@ -11,4 +11,4 @@ Banco de Dados...
 <li>Busca de contato: Rota que permite ao usuário buscar contatos que correspondam a determinados critérios, como nome ou endereço de e-mail.</li>
 </ul>
 <h3>Depedencias Ultilizadas</h3>
- ![image](./img/dep.png)
+![image](https://github.com/Priscilabf/Projeto-Individual-5/blob/main/img/Print%20VScode.png)
